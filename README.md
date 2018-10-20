@@ -1,6 +1,6 @@
 # Combinatorial Probabilities Review
 
-## Formulas:
+## Formulae:
 
 ### Unordered:
 Number of permutations of n objects:
